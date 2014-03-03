@@ -17,6 +17,9 @@ export HUBOT_IRC_SERVER_FAKE_SSL=true
 
 # Server password?
 #export HUBOT_IRC_PASSWORD=password
+#export HUBOT_IRC_NICKSERV_USERNAME="$HUBOT_IRC_NICK"
+#export HUBOT_IRC_NICKSERV_PASSWORD="password"
+
 
 # change HTTPD port to not interfere with other hubots
 # (passing -d in params doesn't seem to work)

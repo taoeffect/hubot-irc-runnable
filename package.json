@@ -19,7 +19,7 @@
     "hubot-scripts": "~2.5.8",
     "optparse": "~1.0.5",
     "hubot-irc": "~0.2.1",
-    "hubot-logger": "https://github.com/taoeffect/hubot-logger/tarball/master"
+    "hubot-logger": "git+https://github.com/taoeffect/hubot-logger.git"
   },
   "engines": {
     "node": "0.6.x",
